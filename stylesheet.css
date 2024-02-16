@@ -195,6 +195,7 @@
     .navbar ul li a{
         font-size: 12px;
         color: rgb(255, 0, 162);
+        bacground-color: red;
     }
     .navbar .logo{
         width: 60px;
